@@ -8,24 +8,14 @@ Powerful Software
 
 Feel free to access [googl](http://google.com).
 
-> ## Transcend in time
+> ## Ruby on rails application deployed on heroku
 >
-> There is no one who loves pain itself, who seeks after it and wants to have 
->   it, simply because it is pain...
->
-> Naruto **Ended**  *After* ***15*** **Years**
+> deployed on heroku
 
-Naruto **Ended**  *After* ***15*** **Years**
 
-### Crazy huh?!!
 
-* Sasuke became good
-+ Happy ending
-- 700 issues
-
-### Reasons to choose us
-1. Emotions
-2. Darama
-3. Great climax
+### This web application
+1. stores company name 
+2. accounts
 
 This is what ruby code would look like `puts "hello world"`
